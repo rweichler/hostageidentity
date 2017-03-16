@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"Hostageidentity stuff needed for sandbox"
+	"version"			"1b"
+	"up_date"			"30th September 2008"
+	"author_name"		"cheesylard"
+	"author_email"		""
+	"author_url"		""
+	"info"				"Yeah read the name"
+	"override"			"0"
+}

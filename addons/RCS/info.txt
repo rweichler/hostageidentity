@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"RealCS"
+	"version"			"6b"
+	"up_date"			"30th September 2008"
+	"author_name"		"cheesylard"
+	"author_email"		""
+	"author_url"		""
+	"info"				"Real CS v6 beta, obviously."
+	"override"			"0"
+}

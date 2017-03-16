@@ -1,0 +1,13 @@
+"Gamemode"
+{
+	"name" 		"Hostage Identity"
+	"version" 	"BETA"
+	"up_date" 	"19 September 2008"
+
+	"author_name" 	"cheesylard"
+	"author_email" 	"cheesylard@hotmail.com"
+	"author_url" 	"http://www.93killer0.awardspace.com/"
+	
+  	"info" 		"Lol, Bourne"
+	"hide"		"0"
+}
